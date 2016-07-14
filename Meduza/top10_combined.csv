@@ -1,0 +1,274 @@
+date,index,source,count
+Apr 2015,16,Overall,936
+Apr 2016,28,Overall,1001
+Aug 2015,20,Overall,811
+Dec 2014,12,Overall,968
+Dec 2015,24,Overall,1069
+Feb 2015,14,Overall,927
+Feb 2016,26,Overall,970
+Jan 2015,13,Overall,735
+Jan 2016,25,Overall,858
+July 2015,19,Overall,926
+June 2015,18,Overall,851
+June 2016,30,Overall,825
+Mar 2015,15,Overall,944
+Mar 2016,27,Overall,1061
+May 2015,17,Overall,780
+May 2016,29,Overall,956
+Nov 2014,11,Overall,729
+Nov 2015,23,Overall,1008
+Oct 2014,10,Overall,395
+Oct 2015,22,Overall,916
+Sept 2015,21,Overall,822
+Oct 2014,10,top-10,186
+Nov 2014,11,top-10,358
+Dec 2015,12,top-10,449
+Jan 2015,13,top-10,319
+Feb 2015,14,top-10,454
+Mar 2015,15,top-10,456
+Apr 2015,16,top-10,472
+May 2015,17,top-10,389
+June 2015,18,top-10,434
+July 2015,19,top-10,493
+Aug 2015,20,top-10,424
+Sept 2015,21,top-10,461
+Oct 2015,22,top-10,520
+Nov 2015,23,top-10,570
+Dec 2016,24,top-10,601
+Jan 2016,25,top-10,460
+Feb 2016,26,top-10,548
+Mar 2016,27,top-10,598
+Apr 2016,28,top-10,537
+May 2016,29,top-10,553
+June 2016,30,top-10,466
+Apr 2015,16,BBC News,15
+Apr 2015,16,Meduza,34
+Apr 2015,16,Reuters,17
+Apr 2015,16,The Guardian,6
+Apr 2015,16,Yahoo News,22
+Apr 2015,16,Ведомости,26
+Apr 2015,16,Интерфакс,141
+Apr 2015,16,Коммерсантъ,45
+Apr 2015,16,РБК,25
+Apr 2015,16,РИА Новости,43
+Apr 2015,16,ТАСС,98
+Apr 2016,28,BBC News,18
+Apr 2016,28,Meduza,51
+Apr 2016,28,Reuters,29
+Apr 2016,28,The Guardian,20
+Apr 2016,28,Yahoo News,30
+Apr 2016,28,Ведомости,30
+Apr 2016,28,Интерфакс,140
+Apr 2016,28,Коммерсантъ,56
+Apr 2016,28,РБК,47
+Apr 2016,28,РИА Новости,38
+Apr 2016,28,ТАСС,78
+Aug 2015,20,BBC News,12
+Aug 2015,20,Meduza,41
+Aug 2015,20,Reuters,11
+Aug 2015,20,The Guardian,11
+Aug 2015,20,Yahoo News,37
+Aug 2015,20,Ведомости,23
+Aug 2015,20,Интерфакс,94
+Aug 2015,20,Коммерсантъ,53
+Aug 2015,20,РБК,36
+Aug 2015,20,РИА Новости,27
+Aug 2015,20,ТАСС,79
+Dec 2014,12,BBC News,17
+Dec 2014,12,Meduza,43
+Dec 2014,12,Reuters,13
+Dec 2014,12,The Guardian,9
+Dec 2014,12,Yahoo News,11
+Dec 2014,12,Ведомости,35
+Dec 2014,12,Интерфакс,120
+Dec 2014,12,Коммерсантъ,27
+Dec 2014,12,РБК,24
+Dec 2014,12,РИА Новости,43
+Dec 2014,12,ТАСС,107
+Dec 2015,24,BBC News,16
+Dec 2015,24,Meduza,60
+Dec 2015,24,Reuters,30
+Dec 2015,24,The Guardian,11
+Dec 2015,24,Yahoo News,47
+Dec 2015,24,Ведомости,27
+Dec 2015,24,Интерфакс,135
+Dec 2015,24,Коммерсантъ,40
+Dec 2015,24,РБК,44
+Dec 2015,24,РИА Новости,56
+Dec 2015,24,ТАСС,135
+Feb 2015,14,BBC News,10
+Feb 2015,14,Meduza,32
+Feb 2015,14,Reuters,14
+Feb 2015,14,The Guardian,10
+Feb 2015,14,Yahoo News,27
+Feb 2015,14,Ведомости,28
+Feb 2015,14,Интерфакс,128
+Feb 2015,14,Коммерсантъ,32
+Feb 2015,14,РБК,32
+Feb 2015,14,РИА Новости,48
+Feb 2015,14,ТАСС,93
+Feb 2016,26,BBC News,17
+Feb 2016,26,Meduza,26
+Feb 2016,26,Reuters,13
+Feb 2016,26,The Guardian,14
+Feb 2016,26,Yahoo News,57
+Feb 2016,26,Ведомости,32
+Feb 2016,26,Интерфакс,149
+Feb 2016,26,Коммерсантъ,65
+Feb 2016,26,РБК,49
+Feb 2016,26,РИА Новости,35
+Feb 2016,26,ТАСС,91
+Jan 2015,13,BBC News,11
+Jan 2015,13,Meduza,31
+Jan 2015,13,Reuters,15
+Jan 2015,13,The Guardian,10
+Jan 2015,13,Yahoo News,29
+Jan 2015,13,Ведомости,19
+Jan 2015,13,Интерфакс,75
+Jan 2015,13,Коммерсантъ,21
+Jan 2015,13,РБК,16
+Jan 2015,13,РИА Новости,28
+Jan 2015,13,ТАСС,64
+Jan 2016,25,BBC News,24
+Jan 2016,25,Meduza,38
+Jan 2016,25,Reuters,24
+Jan 2016,25,The Guardian,15
+Jan 2016,25,Yahoo News,43
+Jan 2016,25,Ведомости,23
+Jan 2016,25,Интерфакс,123
+Jan 2016,25,Коммерсантъ,49
+Jan 2016,25,РБК,40
+Jan 2016,25,РИА Новости,28
+Jan 2016,25,ТАСС,53
+July 2015,19,BBC News,21
+July 2015,19,Meduza,48
+July 2015,19,Reuters,9
+July 2015,19,The Guardian,15
+July 2015,19,Yahoo News,52
+July 2015,19,Ведомости,31
+July 2015,19,Интерфакс,111
+July 2015,19,Коммерсантъ,45
+July 2015,19,РБК,33
+July 2015,19,РИА Новости,48
+July 2015,19,ТАСС,80
+June 2015,18,BBC News,23
+June 2015,18,Meduza,24
+June 2015,18,Reuters,11
+June 2015,18,The Guardian,19
+June 2015,18,Yahoo News,40
+June 2015,18,Ведомости,20
+June 2015,18,Интерфакс,116
+June 2015,18,Коммерсантъ,46
+June 2015,18,РБК,27
+June 2015,18,РИА Новости,42
+June 2015,18,ТАСС,66
+June 2016,30,BBC News,14
+June 2016,30,Meduza,59
+June 2016,30,Reuters,25
+June 2016,30,The Guardian,11
+June 2016,30,Yahoo News,22
+June 2016,30,Ведомости,21
+June 2016,30,Интерфакс,125
+June 2016,30,Коммерсантъ,38
+June 2016,30,РБК,33
+June 2016,30,РИА Новости,43
+June 2016,30,ТАСС,75
+Mar 2015,15,BBC News,17
+Mar 2015,15,Meduza,48
+Mar 2015,15,Reuters,22
+Mar 2015,15,The Guardian,14
+Mar 2015,15,Yahoo News,16
+Mar 2015,15,Ведомости,15
+Mar 2015,15,Интерфакс,122
+Mar 2015,15,Коммерсантъ,45
+Mar 2015,15,РБК,25
+Mar 2015,15,РИА Новости,38
+Mar 2015,15,ТАСС,94
+Mar 2016,27,BBC News,20
+Mar 2016,27,Meduza,58
+Mar 2016,27,Reuters,24
+Mar 2016,27,The Guardian,21
+Mar 2016,27,Yahoo News,32
+Mar 2016,27,Ведомости,38
+Mar 2016,27,Интерфакс,158
+Mar 2016,27,Коммерсантъ,53
+Mar 2016,27,РБК,55
+Mar 2016,27,РИА Новости,31
+Mar 2016,27,ТАСС,108
+May 2015,17,BBC News,19
+May 2015,17,Meduza,40
+May 2015,17,Reuters,9
+May 2015,17,The Guardian,16
+May 2015,17,Yahoo News,11
+May 2015,17,Ведомости,17
+May 2015,17,Интерфакс,112
+May 2015,17,Коммерсантъ,41
+May 2015,17,РБК,28
+May 2015,17,РИА Новости,21
+May 2015,17,ТАСС,75
+May 2016,29,BBC News,16
+May 2016,29,Meduza,69
+May 2016,29,Reuters,26
+May 2016,29,The Guardian,13
+May 2016,29,Yahoo News,22
+May 2016,29,Ведомости,37
+May 2016,29,Интерфакс,158
+May 2016,29,Коммерсантъ,52
+May 2016,29,РБК,29
+May 2016,29,РИА Новости,50
+May 2016,29,ТАСС,81
+Nov 2014,11,BBC News,21
+Nov 2014,11,Meduza,31
+Nov 2014,11,Reuters,4
+Nov 2014,11,The Guardian,10
+Nov 2014,11,Yahoo News,7
+Nov 2014,11,Ведомости,30
+Nov 2014,11,Интерфакс,91
+Nov 2014,11,Коммерсантъ,34
+Nov 2014,11,РБК,31
+Nov 2014,11,РИА Новости,20
+Nov 2014,11,ТАСС,79
+Nov 2015,23,BBC News,20
+Nov 2015,23,Meduza,36
+Nov 2015,23,Reuters,41
+Nov 2015,23,The Guardian,27
+Nov 2015,23,Yahoo News,47
+Nov 2015,23,Ведомости,10
+Nov 2015,23,Интерфакс,121
+Nov 2015,23,Коммерсантъ,52
+Nov 2015,23,РБК,36
+Nov 2015,23,РИА Новости,61
+Nov 2015,23,ТАСС,119
+Oct 2014,10,BBC News,9
+Oct 2014,10,Meduza,7
+Oct 2014,10,Reuters,7
+Oct 2014,10,The Guardian,5
+Oct 2014,10,Yahoo News,1
+Oct 2014,10,Ведомости,17
+Oct 2014,10,Интерфакс,40
+Oct 2014,10,Коммерсантъ,15
+Oct 2014,10,РБК,21
+Oct 2014,10,РИА Новости,14
+Oct 2014,10,ТАСС,50
+Oct 2015,22,BBC News,16
+Oct 2015,22,Meduza,40
+Oct 2015,22,Reuters,43
+Oct 2015,22,The Guardian,5
+Oct 2015,22,Yahoo News,42
+Oct 2015,22,Ведомости,29
+Oct 2015,22,Интерфакс,125
+Oct 2015,22,Коммерсантъ,46
+Oct 2015,22,РБК,30
+Oct 2015,22,РИА Новости,33
+Oct 2015,22,ТАСС,111
+Sept 2015,21,BBC News,17
+Sept 2015,21,Meduza,46
+Sept 2015,21,Reuters,18
+Sept 2015,21,The Guardian,15
+Sept 2015,21,Yahoo News,38
+Sept 2015,21,Ведомости,30
+Sept 2015,21,Интерфакс,108
+Sept 2015,21,Коммерсантъ,40
+Sept 2015,21,РБК,31
+Sept 2015,21,РИА Новости,33
+Sept 2015,21,ТАСС,85
